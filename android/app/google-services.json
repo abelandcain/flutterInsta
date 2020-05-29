@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "461949576752",
+    "firebase_url": "https://socialapp1810.firebaseio.com",
+    "project_id": "socialapp1810",
+    "storage_bucket": "socialapp1810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461949576752:android:9b01b0bab48b3223fdaff5",
+        "android_client_info": {
+          "package_name": "com.akshatjaitly.flutterinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461949576752-aocqqgt4jc5eaq6fl3nmhas4cklhksbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshatjaitly.flutterinsta",
+            "certificate_hash": "1046d2895b3f2d55dce7eeaca26912a7ef1fbd66"
+          }
+        },
+        {
+          "client_id": "461949576752-nkd5er2nefof6gvlgt38igteqdp58adp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg6jdkQ6iqb1_BtdTUU6ub5mXeca8DqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461949576752-nkd5er2nefof6gvlgt38igteqdp58adp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461949576752-hfe4drbjc4n67rmddau1cjsn414aavkr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akshatjaitly.flutterinsta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461949576752:android:3333c87424b1c361fdaff5",
+        "android_client_info": {
+          "package_name": "com.akshatjaitly.flutterinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461949576752-9fublasm83cu3l369lbtv1bn9clavb9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshatjaitly.flutterinstagram",
+            "certificate_hash": "1046d2895b3f2d55dce7eeaca26912a7ef1fbd66"
+          }
+        },
+        {
+          "client_id": "461949576752-nkd5er2nefof6gvlgt38igteqdp58adp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg6jdkQ6iqb1_BtdTUU6ub5mXeca8DqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461949576752-nkd5er2nefof6gvlgt38igteqdp58adp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461949576752-hfe4drbjc4n67rmddau1cjsn414aavkr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akshatjaitly.flutterinsta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
